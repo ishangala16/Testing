@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pot Images</folder>
+	<filename>IMG_20210711_143347.jpg</filename>
+	<path>C:\Users\Ishan\Downloads\Pot Images\IMG_20210711_143347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>161</ymin>
+			<xmax>474</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>156</ymin>
+			<xmax>512</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
